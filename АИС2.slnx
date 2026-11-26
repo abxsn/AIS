@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../BusinessLogic2/BusinessLogic2.csproj" Id="638567e5-3da8-4a01-908e-7aaca5fb2501" />
+  <Project Path="../DataAccessLayer1/DataAccessLayer1.csproj" Id="25f7d3ce-3782-4f50-a315-57fc98dee2fe" />
+  <Project Path="../FatModel/FatModel.csproj" Id="fa795ef9-b3af-4666-833b-b0d96a22784a" />
+  <Project Path="../LogicToData/LogicToData.csproj" Id="14494303-3027-4a2e-b382-38635efa59a3" />
+  <Project Path="../Model/Entities.csproj" Id="cce11356-9749-40d8-a3fe-c0863553ca03" />
+  <Project Path="../Presenter/Presenter.csproj" Id="c58c04b6-89ac-49cc-85ab-f0dee17be06d" />
+  <Project Path="../Shared/Shared.csproj" Id="0a747964-ef3b-4102-af1a-d37f3992ad8b" />
+  <Project Path="../WindowsFormsApp3/WindowsFormsApp3.csproj" Id="e9bd0558-7f1d-4eb8-994f-fdb68dc8f229" />
+  <Project Path="../WpfView/WpfView.csproj" Id="4e71eb0f-1667-418e-93f7-2b65e5e42e4d" />
+  <Project Path="АИС2.csproj" Id="77a7a22b-0b8d-44c3-a682-00839d02553f" />
+</Solution>
